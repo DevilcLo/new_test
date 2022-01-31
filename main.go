@@ -7,6 +7,11 @@ func NewT() {
 }
 
 func main() {
+
 	NewT()
+
+	a := 3
+	fmt.Println(a)
+
 	fmt.Println("hello world!")
 }
